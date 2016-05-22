@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wechat\n"
+"POT-Creation-Date: 2014-09-21 22:34+0800\n"
+"PO-Revision-Date: 2016-05-21 20:58+0800\n"
+"Last-Translator: smyx <smyx@qq.com>\n"
+"Language-Team: smyx <smyx@qq.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: E:/php/APMServ5.2.6/www/htdocs/wp-content/plugins/wechat\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: zh_CN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Woo SMS Login"
+msgstr "手机短息注册/登陆"
+
+msgid "Dayu SMS For Woo"
+msgstr "大鱼手机短息注册/登陆"
+
+msgid "Plugin Summary"
+msgstr "插件简介"
+
+msgid "This plugin can let buyer login and register with their real phone num,we integrate Ali DAYU SMS service."
+msgstr "此插件利集成了阿里短信验证服务,使买家用真实的手机号进行注册登陆。"
+
+msgid "Introduction of Ali DAYU SMS service"
+msgstr "阿里短信验证服务介绍"
+
+msgid "Contact  Me"
+msgstr "联系方式"
+
+msgid "Mail:"
+msgstr "邮箱地址:"
+
+msgid "WeChat Account:"
+msgstr "微信联系方式:"
+
+msgid "Plugin  Screenshots"
+msgstr "插件图片展示"
+
+msgid "Price:"
+msgstr "插件价格:"
