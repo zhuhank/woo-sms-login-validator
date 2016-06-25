@@ -19,6 +19,7 @@ License: GPLv2 or later
 = 插件介绍 =
 此插件集成了阿里短信服务,使买家需以真实的手机号来注册登陆
 以手机号注册登陆也更符合国内的使用习惯
+可使得买家忘记密码后,以手机号找回密码
 
 联系方式:
 邮箱:nkg_hank@126.com
@@ -28,7 +29,7 @@ License: GPLv2 or later
 
 1. 此插件集成了阿里短信服务,使买家需以真实的手机号来注册登陆
 
-仅售：￥150 RMB 
+仅售：￥200 RMB 
 
 
 **Current Features:**
@@ -36,7 +37,7 @@ License: GPLv2 or later
 1. This plugin can let buyer login and register with their real phone num. 
 
 
-only：￥150 RMB 
+only：￥200 RMB 
 
 == Screenshots ==
 
