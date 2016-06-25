@@ -35,6 +35,7 @@ License: GPLv2 or later
 **Current Features:**
 
 1. This plugin can let buyer login and register with their real phone num. 
+2. Can let buyer get lost password with phone num verfication
 
 
 only：￥200 RMB 
